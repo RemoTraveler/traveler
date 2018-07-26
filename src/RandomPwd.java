@@ -4,7 +4,7 @@ import java.util.Random;
 public class RandomPwd {
 
     /** 密码字符组成原材料 **/
-    private static final String CHARREPOSITORY = "01V8Gyz!@5TU%^E9ABCefsW2OPtuvwx#$QFhio67XHIJSpjklmRDbcdnqr4KLYZa&3gMN/+=";
+    private static final String CHARREPOSITORY = "01V8Gyz!@5TU%^+E9ABCefsW2OPtuvwx#$QFhio67XHI.JSpjklmRDbcdnqr4KLYZa&3gMN/=";
     /** 生成密码长度 **/
     private static final int length = 20;
 
